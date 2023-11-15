@@ -1,3 +1,3 @@
-function restar (numero){
-    return numero - 1
+function restar (numero, numero2){
+    return numero - numero2
 }
