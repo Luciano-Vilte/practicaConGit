@@ -9,3 +9,4 @@ const multiplicar = mult();
 const dividir = div();
 
 const operaciones = [sumar, restar, multiplicar, dividir];
+ 
